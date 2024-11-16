@@ -1,0 +1,44 @@
+{
+  "name": "Warrior",
+  "description": "A mighty warrior skilled in close combat and defensive tactics",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafybeigkyttg6h63viklsstmxmuzrg6vcqgihotspmvvm3nrm6zimtyty4/10001.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Base Level",
+      "value": 1
+    },
+    {
+      "trait_type": "Health",
+      "value": 150
+    },
+    {
+      "trait_type": "Attack",
+      "value": 15
+    },
+    {
+      "trait_type": "Defense",
+      "value": 12
+    },
+    {
+      "trait_type": "Power",
+      "value": 100
+    },
+    {
+      "trait_type": "Class Ability",
+      "value": "Shield Block"
+    },
+    {
+      "trait_type": "Weapon Proficiency",
+      "value": "Swords and Axes"
+    },
+    {
+      "trait_type": "Armor Proficiency",
+      "value": "Heavy Armor"
+    }
+  ],
+  "background_color": "8B0000"
+}

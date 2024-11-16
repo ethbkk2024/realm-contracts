@@ -1,0 +1,27 @@
+{
+  "name": "Dragon Slayer",
+  "description": "A legendary sword infused with dragon's power",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafybeigkyttg6h63viklsstmxmuzrg6vcqgihotspmvvm3nrm6zimtyty4/3.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Weapon"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Power Bonus",
+      "value": 60
+    },
+    {
+      "trait_type": "Attack Bonus",
+      "value": 50
+    },
+    {
+      "trait_type": "Defense Bonus",
+      "value": 10
+    }
+  ]
+}

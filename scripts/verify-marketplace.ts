@@ -1,0 +1,6 @@
+module.exports = [
+  '0x1c5f75d830F263A0351E7DFCCb434b0C782eDB0E', // nft
+  '0x858dA671e3b109da7f3f8A74348c997F5eEBbCa3', // erc20
+  '0x1862BDB78aD1F0914aedd3673CC5cCbf561B6f73', // game system
+  '0x1862BDB78aD1F0914aedd3673CC5cCbf561B6f73', // owner
+];

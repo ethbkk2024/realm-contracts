@@ -1,0 +1,27 @@
+{
+  "name": "Iron Sword",
+  "description": "A basic but reliable sword",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafybeigkyttg6h63viklsstmxmuzrg6vcqgihotspmvvm3nrm6zimtyty4/1.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Weapon"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power Bonus",
+      "value": 20
+    },
+    {
+      "trait_type": "Attack Bonus",
+      "value": 15
+    },
+    {
+      "trait_type": "Defense Bonus",
+      "value": 0
+    }
+  ]
+}

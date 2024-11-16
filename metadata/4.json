@@ -1,0 +1,27 @@
+{
+  "name": "Iron Armor",
+  "description": "Standard protective armor",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafybeigkyttg6h63viklsstmxmuzrg6vcqgihotspmvvm3nrm6zimtyty4/4.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Armor"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power Bonus",
+      "value": 15
+    },
+    {
+      "trait_type": "Attack Bonus",
+      "value": 0
+    },
+    {
+      "trait_type": "Defense Bonus",
+      "value": 20
+    }
+  ]
+}

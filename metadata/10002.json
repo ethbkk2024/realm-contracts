@@ -1,0 +1,44 @@
+{
+  "name": "Mage",
+  "description": "A powerful spellcaster specializing in elemental magic",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafybeigkyttg6h63viklsstmxmuzrg6vcqgihotspmvvm3nrm6zimtyty4/10002.png",
+  "attributes": [
+    {
+      "trait_type": "Character Type",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Base Level",
+      "value": 1
+    },
+    {
+      "trait_type": "Health",
+      "value": 100
+    },
+    {
+      "trait_type": "Attack",
+      "value": 20
+    },
+    {
+      "trait_type": "Defense",
+      "value": 8
+    },
+    {
+      "trait_type": "Power",
+      "value": 100
+    },
+    {
+      "trait_type": "Class Ability",
+      "value": "Mana Shield"
+    },
+    {
+      "trait_type": "Weapon Proficiency",
+      "value": "Staves and Wands"
+    },
+    {
+      "trait_type": "Magic Affinity",
+      "value": "Elemental"
+    }
+  ],
+  "background_color": "4B0082"
+}

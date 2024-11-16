@@ -1,0 +1,27 @@
+{
+  "name": "Mythril Plate",
+  "description": "Superior armor crafted from mythril",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafybeigkyttg6h63viklsstmxmuzrg6vcqgihotspmvvm3nrm6zimtyty4/5.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Armor"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power Bonus",
+      "value": 30
+    },
+    {
+      "trait_type": "Attack Bonus",
+      "value": 5
+    },
+    {
+      "trait_type": "Defense Bonus",
+      "value": 40
+    }
+  ]
+}
